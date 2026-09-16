@@ -1,27 +1,41 @@
-# 💫 About Me:
-🔭 I’m currently working on: AI/ML and Data Analytics projects, including customer churn prediction using Python and machine learning.<br>👯 I’m looking to collaborate on: Open-source projects related to Python, Machine Learning, Data Science, and AI.<br>🤝 I’m looking for help with: Building real-world ML solutions, improving model performance, and deploying data-driven applications.<br>🌱 I’m currently learning: Advanced Machine Learning, Data Analytics, Python, SQL, and Data Engineering.<br>💬 Ask me about: Python, C++, SQL, Machine Learning, Data Analytics, Streamlit, and my Customer Churn Prediction project.<br>⚡ Fun fact: I enjoy solving coding problems and practicing Karate alongside my tech journey.
+<h1 align="center">Hi 👋, I'm Rajat Parab</h1>
+<h3 align="center">A passionate AI/ML & Data Analytics enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priestofgit&label=Profile%20views&color=0e75b6&style=flat" alt="priestofgit" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajat Parab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatparab6@gmail.com) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priestofgit" alt="priestofgit" /></a> </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priestofgit&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priestofgit&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priestofgit&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on [Customer Churn Prediction & Analytics](https://github.com/priestofgit/customer-churn-prediction-analytics)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priestofgit&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **Advanced Machine Learning, Python, SQL & Data Engineering**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👯 I’m looking to collaborate on [AI/ML, Data Science & Python projects](https://github.com/priestofgit)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priestofgit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🤝 I’m looking for help with [Building and deploying real-world AI/ML projects](https://github.com/priestofgit/customer-churn-prediction-analytics)
 
----
-[![](https://komarev.com/ghpvc/?username=priestofgit&icon=3&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://github.com/priestofgit](https://github.com/priestofgit)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **Python, C++, SQL, Machine Learning, Data Analytics, Streamlit & XGBoost**
+
+- 📫 How to reach me **rajatparab6@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16rRzi9Ji54zj_qI9I4Q3Berjuf_HXjcJ/view?usp=sharing](https://drive.google.com/file/d/16rRzi9Ji54zj_qI9I4Q3Berjuf_HXjcJ/view?usp=sharing)
+
+- ⚡ Fun fact **I enjoy solving coding problems and practicing Karate alongside my tech journey.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajat parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat parab" height="30" width="40" /></a>
+<a href="https://kaggle.com/rajat parab 1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajat parab 1410" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajat_parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_parab" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajat parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajat parab" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priestofgit&show_icons=true&locale=en&layout=compact" alt="priestofgit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priestofgit&show_icons=true&locale=en" alt="priestofgit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priestofgit&" alt="priestofgit" /></p>
